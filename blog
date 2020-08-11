@@ -1,0 +1,6 @@
+var twLSN = [
+'palmsugar.store',
+'www.palmsugar.store',
+];
+
+var redirectUrl = 'https://www.palmsugar.store';
